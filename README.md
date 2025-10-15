@@ -45,7 +45,7 @@ GitHub – Version control and project documentation
 
 🟩 Turnover (₹ Cr) — Total trading turnover for the day ₹28,485.34
 
-![Top_10_Stocks](Stock Market IND/Top%2010%20Stocks%20By%20Turnover.png)
+![Top_10_Stocks](Stock%20Market%20IND/Top%2010%20Stocks%20By%20Turnover.png)
 
 🟧 Volume (Lacs) — Total number of shares traded ₹3,563.33
 
