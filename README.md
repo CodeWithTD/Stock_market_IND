@@ -1,5 +1,5 @@
 
-<!-- # 📊 National Stock Exchange (NSE) Stock Market Analysis -->
+# 📊 National Stock Exchange (NSE) Stock Market Analysis -->
 This project analyzes and visualizes stock market performance data from the National Stock Exchange (NSE) of India using PostgreSQL and Google Sheets.
 The dataset contains daily-level trading details such as stock prices, turnover, and percentage change for various listed companies.
 
@@ -7,7 +7,7 @@ The main goal of this project is to identify market trends, top-performing stock
 
 Using SQL, the data was cleaned, transformed, and analyzed to extract key insights. The processed data was then visualized in Google Sheets to build an interactive stock market dashboard, showing market dynamics at a glance.
 
-<!-- # 🧠 Key Insights -->
+ # 🧠 Key Insights -->
 
 Total number of listed stocks analyzed 50
 
@@ -31,7 +31,7 @@ Comparison between short-term (30-day) -4.65 and long-term (365-day) 79.22 perfo
 
 Visualization of volatility and trend direction for better investment understanding
 
-<!-- ## 🧰 Tools & Technologies -->
+## 🧰 Tools & Technologies -->
 
 PostgreSQL – Data storage, cleaning, and analysis using SQL queries.
 
@@ -39,7 +39,7 @@ Google Sheets – Dashboard creation and KPI visualization.
 
 GitHub – Version control and project documentation
 
-<!-- ## 📊 Dashboard Highlights -->
+## 📊 Dashboard Highlights -->
 
 🟦 Total Stocks — Count of unique listed stocks - 50
 
@@ -60,7 +60,7 @@ GitHub – Version control and project documentation
 
 ![Volume_vs_Turnover_Relationship](Pictures/Volume%20vs%20Turnover%20Relationship.png)
 
-<!-- ## 💡 Learning Outcomes -->
+## 💡 Learning Outcomes -->
 
 Practiced SQL data cleaning, transformation, and KPI calculation.
 
@@ -78,7 +78,7 @@ Strengthened analytical thinking for market-based datasets.
 
 ![Raw_data](Pictures/Raw%20data.png)
 
-<!-- ## 🚀 How to Run -->
+## 🚀 How to Run -->
 
 Import the dataset into PostgreSQL using create_table.sql.
 
@@ -88,13 +88,13 @@ Export results and link with Google Sheets for dashboard creation.
 
 Review dashboard insights and key visualizations.
 
-<!-- ## 🏁 Conclusion -->
+## 🏁 Conclusion -->
 
 This project provides a concise and data-driven view of NSE market performance, helping users quickly identify top-performing stocks, analyze market movement, and understand trading activity across sectors.
 It showcases the integration of SQL for analytics and Google Sheets for visualization, demonstrating end-to-end data analysis capability.
 
 
-<!-- ## Authors -->
+## Authors -->
 [CodeWithTD]https://github.com/CodeWithTD
 
 [TuhinDutta]https://www.linkedin.com/in/duttatuhin/
