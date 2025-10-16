@@ -9,13 +9,13 @@ Using SQL, the data was cleaned, transformed, and analyzed to extract key insigh
 
  # 🧠 Key Insights -->
 
-Total number of listed stocks analyzed 50
+**Total number of listed stocks analyzed** 50
 
-Total market turnover ₹28,485.34CR and Total volume ₹3565.33Lakh
+**Total market turnover** ₹28,485.34CR and **Total volume** ₹3565.33Lakh
 
-Top 10 gainers and losers by daily -5.90%.
+**Top 10 gainers and losers by daily** -5.90%.
 
-Top 10 companies by turnover and trading volume 
+**Top 10 companies by turnover and trading volume** 
 ADANIPORTS
 ASIANPAINT
 AXISBANK
@@ -27,66 +27,75 @@ BPCL
 BRITANNIA
 CIPLA
 
-Comparison between short-term (30-day) -4.65 and long-term (365-day) 79.22 performance trends
+**Comparison between short-term (30-day)** -4.65 and **long-term (365-day)** 79.22 performance trends
 
 Visualization of volatility and trend direction for better investment understanding
 
 ## 🧰 Tools & Technologies -->
 
-PostgreSQL – Data storage, cleaning, and analysis using SQL queries.
+**PostgreSQL** – Data storage, cleaning, and analysis using SQL queries.
 
-Google Sheets – Dashboard creation and KPI visualization.
+**Google Sheets** – Dashboard creation and KPI visualization.
 
-GitHub – Version control and project documentation
+**GitHub** – Version control and project documentation
 
 ## 📊 Dashboard Highlights -->
 
-🟦 Total Stocks — Count of unique listed stocks - 50
+🟦 **Total Stocks** — Count of unique listed stocks - 50
 
-🟩 Turnover (₹ Cr) — Total trading turnover for the day ₹28,485.34
+🟩 **Turnover (₹ Cr)** — Total trading turnover for the day ₹28,485.34
 
-![Top_10_Stocks](Stock%20Market%20IND/Top%2010%20Stocks%20By%20Turnover.png)
+![Top_10_Stocks](/pics/Top%2010%20Stocks%20By%20Turnover.png)
 
-🟧 Volume (Lacs) — Total number of shares traded ₹3,563.33
+🟧 **Volume (Lacs)** — Total number of shares traded ₹3,563.33
 
-🔴 % Change — Highlighted in red or green based on market movement -5.90%
+🔴 **% Change** — Highlighted in red or green based on market movement -5.90%
 
-📈 Interactive charts for Top Gainers, Top Losers, Turnover Leaders, and 365d-30d performance
+📈 **Interactive charts for Top Gainers, Top Losers, Turnover Leaders, and 365d-30d performance**
 
-![Top_Gainers](Pictures/Top%20Gainers.png)
-![Top_Losers](Pictures/Top%20Losers.png)
+![Top_Gainers](/pics/Top%20Gainers.png)
+![Top_Losers](/pics/Top%20Losers.png)
 
-![356days_and_30days_perf](Pictures/365-Day%20&%2030-Day%20Performance.png)
+![356days_and_30days_perf](/pics/365-Day%20&%2030-Day%20Performance.png)
 
-![Volume_vs_Turnover_Relationship](Pictures/Volume%20vs%20Turnover%20Relationship.png)
+![Volume_vs_Turnover_Relationship](/pics/Volume%20vs%20Turnover%20Relationship.png)
 
 ## 💡 Learning Outcomes -->
 
 Practiced SQL data cleaning, transformation, and KPI calculation.
 
-![SQL_queries](Pictures/Screenshot%20(38).png)
+![SQL_queries](/pics/Screenshot%20(38).png)
 
 Developed visualization and storytelling skills using Google Sheets.
 
-![Dashboard](Pictures/Dashboard.png)
+![Dashboard](/pics/Dashboard.png)
 
 Learned to structure and document a professional data analysis project
 
-![Business_insights](Pictures/Business%20insights.png)
+![Business_insights](/pics/Business%20insights.png)
 
 Strengthened analytical thinking for market-based datasets.
 
-![Raw_data](Pictures/Raw%20data.png)
+![Raw_data](/pics/Raw%20data.png)
 
-## 🚀 How to Run -->
+## Business Recommendation -->
 
-Import the dataset into PostgreSQL using create_table.sql.
+1. **Focus on High-Turnover, High-Volume Stocks**
+Companies like **ADANIPORTS, AXISBANK, BAJFINANCE,** and **ASIANPAINT** consistently dominate both turnover and trading volume
+These stocks show strong market liquidity — meaning investors can enter or exit positions easily without significant price distortion
 
-Run the queries in /sql_queries folder sequentially.
+2.**Leverage Long-Term Positive Momentum**
+The market’s 365-day growth (+79.22%) clearly outpaces its short-term 30-day dip (-4.65%)
+This signals short-term correction rather than a long-term bearish phase
 
-Export results and link with Google Sheets for dashboard creation.
+3.**Manage Risk Through Diversification**
+Top-performing companies span across multiple industries — Banking, FMCG, Automotive, and Telecom — reducing sector concentration risk
 
-Review dashboard insights and key visualizations.
+4.**Identify Volatile Stocks for Trading Opportunities**
+Stocks with wider gaps between High and Low prices indicate intraday volatility and greater potential for traders seeking short-term profits
+
+5.**Monitor Short-Term Weakness**
+The -4.65% 30-day change suggests some short-term pressure, possibly due to profit-booking or external market sentiment shifts
 
 ## 🏁 Conclusion -->
 
