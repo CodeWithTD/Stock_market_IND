@@ -1,0 +1,67 @@
+Business Insights & Analysis
+
+This project provides an in-depth overview of the National Stock Exchange (NSE) market performance using real-world stock trading data.
+Each insight was derived by cleaning, aggregating, and analyzing the dataset in PostgreSQL, and then visualized in Google Sheets to support data-driven decisions
+
+1. Market Coverage & Data Scope
+
+Total Stocks Analyzed: 50 companies listed on the NSE.
+
+This scope provides a balanced sample of large-cap and mid-cap stocks, suitable for understanding market movement patterns.
+
+The analysis focuses on daily-level trading metrics such as open, high, low, last traded price (LTP), turnover, and percentage change
+
+2. Total Market Turnover and Volume
+
+Turnover: ₹28,485.34 Crores
+
+Trading Volume: 3,565.33 Lakhs shares
+
+This indicates a high liquidity day in the market, suggesting strong investor participation and confidence.
+Turnover and volume together represent the total market activity — higher numbers mean more active trading sessions
+
+
+3. Top Performing Stocks (Turnover & Volume Leaders)
+
+Top 10 Companies:
+ADANIPORTS, ASIANPAINT, AXISBANK, BAJAJ-AUTO, BAJAJFINSV, BAJFINANCE, BHARTIARTL, BPCL, BRITANNIA, CIPLA
+
+These companies dominate trading activity, showing strong investor interest and consistent liquidity.
+They represent key sectors like banking, automotive, FMCG, and telecom, indicating diversified market movement rather than sector-specific spikes
+
+4. Gainers & Losers by Daily % Change
+
+The top gainers and losers show a maximum daily fluctuation of around -5.90%.
+
+A negative range within 5–6% suggests moderate market volatility, which is common in mixed market sentiment days.
+
+Some companies saw pullbacks after strong prior growth phases
+
+5. Trend Analysis — Short-Term vs Long-Term
+
+30-Day Performance: -4.65%
+
+365-Day Performance: +79.22%
+
+This shows that despite a short-term dip, the long-term market trend is strongly positive, signaling long-run investor confidence and recovery potential.
+It also highlights that recent corrections are minor within an overall bullish trend, typical after sustained growth phases
+
+6. Volatility & Investment Direction
+
+Variations in Open, High, Low, and LTP values across stocks show that volatility is uneven, with some stocks experiencing sharper intra-day swings.
+
+This helps investors identify potentially high-risk, high-reward stocks for trading versus stable long-term options
+
+7. Business Implications
+
+For Investors: The dashboard enables quick detection of top-performing sectors and companies, aiding portfolio diversification.
+
+For Analysts: Simplifies trend tracking — especially in identifying shifts between short-term corrections and long-term performance.
+
+For Brokers: Offers actionable insights into trading activity and stock movement concentration
+
+Conclusion
+
+The NSE Stock Market Dashboard bridges technical SQL data handling with visual business storytelling.
+It converts raw trading data into actionable insights — enabling users to understand liquidity, volatility, and growth patterns across major Indian companies.
+This project demonstrates end-to-end analytical thinking: from SQL-based insight generation to visualization and reporting
