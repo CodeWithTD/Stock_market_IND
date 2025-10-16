@@ -80,7 +80,7 @@ Strengthened analytical thinking for market-based datasets.
 
 ## Business Recommendation -->
 
-1. **Focus on High-Turnover, High-Volume Stocks**
+1.**Focus on High-Turnover, High-Volume Stocks**
 Companies like **ADANIPORTS, AXISBANK, BAJFINANCE,** and **ASIANPAINT** consistently dominate both turnover and trading volume
 These stocks show strong market liquidity — meaning investors can enter or exit positions easily without significant price distortion
 
